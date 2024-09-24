@@ -4,11 +4,12 @@
   "description": "Adapter zur Kommunikation mit einem LocalAI Server",
   "main": "main.js",
   "scripts": {
-    "postinstall": "./install.sh"  # Optionales Skript nach der Installation
+    "postinstall": "./install.sh"  
   },
   "author": "Sonny",
   "license": "AuroraCodes",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^1.3.4",
+    "@iobroker/adapter-core": "^2.5.0"
   }
 }

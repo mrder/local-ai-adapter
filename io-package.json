@@ -12,7 +12,7 @@
     "type": "iot",
     "enabled": true,
     "authors": [
-      "Dein Name <deine.email@domain.com>"
+      "Dein Name <webmaster@clan-root.de>"
     ],
     "license": "MIT",
     "keywords": [
@@ -20,7 +20,7 @@
       "machine learning",
       "adapter"
     ],
-    "readme": "https://github.com/DeinUsername/local-ai-adapter/blob/main/README.md",
+    "readme": "https://github.com/mrder/local-ai-adapter/blob/main/README.md",
     "dependencies": []
   },
   "native": {
