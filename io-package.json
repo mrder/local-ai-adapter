@@ -24,7 +24,7 @@
     "dependencies": []
   },
   "native": {
-    "aiServerURL": "http://localhost:8000"  # Beispiel-URL des LocalAI-Servers
+    "aiServerURL": "http://localhost:8000"  
   },
   "objects": [],
   "instanceObjects": [],

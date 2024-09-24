@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Adapter zur Kommunikation mit einem LocalAI Server",
   "main": "main.js",
-  "scripts": {
-    "postinstall": "./install.sh"  
-  },
+  "scripts": {},
   "author": "Sonny",
   "license": "AuroraCodes",
   "dependencies": {
