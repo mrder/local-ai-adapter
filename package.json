@@ -1,0 +1,14 @@
+{
+  "name": "local-ai-adapter",
+  "version": "1.0.0",
+  "description": "Adapter zur Kommunikation mit einem LocalAI Server",
+  "main": "main.js",
+  "scripts": {
+    "postinstall": "./install.sh"  # Optionales Skript nach der Installation
+  },
+  "author": "Sonny",
+  "license": "AuroraCodes",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

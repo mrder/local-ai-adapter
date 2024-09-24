@@ -1,0 +1,38 @@
+{
+  "common": {
+    "name": "local-ai-adapter",
+    "version": "1.0.0",
+    "title": "Local AI Adapter",
+    "desc": "Adapter zur Kommunikation mit einem LocalAI Server",
+    "platform": "Javascript/Node.js",
+    "mode": "daemon",
+    "loglevel": "info",
+    "icon": "icons/ai-icon.png",
+    "extIcon": "https://path/to/external/icon.png",
+    "type": "iot",
+    "enabled": true,
+    "authors": [
+      "Dein Name <deine.email@domain.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+      "ai",
+      "machine learning",
+      "adapter"
+    ],
+    "readme": "https://github.com/DeinUsername/local-ai-adapter/blob/main/README.md",
+    "dependencies": []
+  },
+  "native": {
+    "aiServerURL": "http://localhost:8000"  # Beispiel-URL des LocalAI-Servers
+  },
+  "objects": [],
+  "instanceObjects": [],
+  "adminUI": {
+    "custom": true
+  },
+  "adminTab": {
+    "link": "index.html",
+    "name": "Local AI Adapter"
+  }
+}
